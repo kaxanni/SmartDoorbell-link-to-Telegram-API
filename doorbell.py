@@ -5,8 +5,8 @@ import time
 import vlc
 
 # Telegram Bot Token and chat ID
-bot_token = '6071565366:AAGrMCR5ZzDITok_Kw8b24qrPZ47OxofSEE'
-chat_id = '5210179664'
+bot_token = 'user bot token'
+chat_id = 'user ID'
 
 # Initialize the Telegram Bot
 bot = telebot.TeleBot(bot_token)
